@@ -1,4 +1,4 @@
-# Car-Seller
+# Car Rental Web Application
 
 Welcome to the Car Rental Web Application! This web application allows users to browse and search for cars available for rent. It provides a user-friendly interface to explore a variety of cars and find the one that suits their needs.
 
@@ -12,25 +12,6 @@ Welcome to the Car Rental Web Application! This web application allows users to 
 ## Folder Structure
 
 The project is organized with the following folder structure:
-
-Frontend/
-│
-├── src/
-│ ├── Components/
-│ │ ├── Layout/
-│ │ │ └── Card.jsx
-│ │ ├── Global/
-│ │ │ └── Navbar.jsx
-│ │ └── Home/
-│ │ └── Home.jsx
-│ │
-│ └── JSON/
-│ └── cars.json
-│
-├── ...
-│
-
-
 
 - `Components/`: Contains sub-folders for different types of components used in the application.
   - `Layout/`: Includes the `Card.jsx` component, which represents a card displaying car details.
