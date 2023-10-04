@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "carName": "Toyota Camry",
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/10926/1690544712715/front-left-side-47.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2021,
+        "carRent": 400
+    },
+    {
+        "id": 2,
+        "carName": "Honda Civic",
+        "imageUrl": "https://imgd.aeplcdn.com/0x0/n/cw/ec/27074/civic-exterior-right-front-three-quarter-148155.jpeg?q=80",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2019,
+        "carRent": 350
+    },
+    {
+        "id": 3,
+        "carName": "Ford Mustang",
+        "imageUrl": "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2024/collections/equipment/3-2/24_FRD_MST_61047_32.jpg",
+        "capacity": 2,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2021,
+        "carRent": 550
+    },
+    {
+        "id": 4,
+        "carName": "Chevrolet Corvette",
+        "imageUrl": "https://i.gaw.to/vehicles/photos/40/31/403168-2023-chevrolet-corvette.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Automatic",
+        "releaseYear": 2018,
+        "carRent": 500
+    },
+    {
+        "id": 5,
+        "carName": "BMW M3 GTR",
+        "imageUrl": "https://preview.redd.it/bmw-m3-gtr-gt-e46-v0-2qmhy0ztbrla1.jpg?width=720&format=pjpg&auto=webp&s=5630b0c10bacd046e7cd73e3e60ca3bbdc988790",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2020,
+        "carRent": 600
+    },
+    {
+        "id": 6,
+        "carName": "Volkswagen Golf",
+        "imageUrl": "https://cdni.autocarindia.com/ExtraImages/20230602055539_2.jpg",
+        "capacity": 2,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2019,
+        "carRent": 450
+    },
+    {
+        "id": 7,
+        "carName": "Nissan Altima",
+        "imageUrl": "https://www.carscoops.com/wp-content/uploads/2023/08/2023-Nissan-Altima-13aa.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Automatic",
+        "releaseYear": 2021,
+        "carRent": 400
+    },
+    {
+        "id": 8,
+        "carName": "Lamborghini Gallardo",
+        "imageUrl": "https://images.hindustantimes.com/auto/img/2023/07/22/1600x900/gallardo_1690006782710_1690006790222.jpg",
+        "capacity": 2,
+        "fuelType": "Gasoline",
+        "driveMode": "Manual",
+        "releaseYear": 2021,
+        "carRent": 800
+    },
+    {
+        "id": 9,
+        "carName": "Lamborghini Aventador",
+        "imageUrl": "https://i.redd.it/h02q24dh26811.jpg",
+        "capacity": 2,
+        "fuelType": "Gasoline",
+        "driveMode": "Manual",
+        "releaseYear": 2022,
+        "carRent": 900
+    },
+    {
+        "id": 10,
+        "carName": "Koenigsegg Agera",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kEuFDcLzL._AC_UF894,1000_QL80_.jpg",
+        "capacity": 2,
+        "fuelType": "Gasoline",
+        "driveMode": "Manual",
+        "releaseYear": 2022,
+        "carRent": 1000
+    },
+    {
+        "id": 11,
+        "carName": "Koenigsegg Regera",
+        "imageUrl": "https://media.zigcdn.com/media/content/2023/Jun/648d7b260264a.jpg?tr=w-420",
+        "capacity": 2,
+        "fuelType": "Gasoline",
+        "driveMode": "Manual",
+        "releaseYear": 2022,
+        "carRent": 1100
+    },
+    {
+        "id": 12,
+        "carName": "Bugatti Veyron",
+        "imageUrl": "https://imgd.aeplcdn.com/1280x720/ec/02/00/17576/img/m/Bugatti-Veyron-Exterior-46980_ol.jpg?t=121057917&t=121057917",
+        "capacity": 2,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2020,
+        "carRent": 400
+    },
+    {
+        "id": 13,
+        "carName": "Rolls Royce Boat Tail",
+        "imageUrl": "https://www.topgear.com/sites/default/files/images/news-article/2021/05/b82a238e37c94fffc31ffd107b2b239f/rolls-royceboattailfront3_4lifestyle.jpg",
+        "capacity": 2,
+        "fuelType": "Hybrid",
+        "driveMode": "Automatic",
+        "releaseYear": 2023,
+        "carRent": 1500
+    },
+    {
+        "id": 14,
+        "carName": "Lamborghini Veneno",
+        "imageUrl": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/masterpieces/veneno_rds/over/veneno_roadster_over_01_m.jpg",
+        "capacity": 2,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2019,
+        "carRent": 1200
+    },
+    {
+        "id": 15,
+        "carName": "Bugatti Divo",
+        "imageUrl": "https://www.v3cars.com/media/model-imgs/1625827599-Bukatti-Divo.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2022,
+        "carRent": 1600
+    },
+    {
+        "id": 16,
+        "carName": "Audi A4",
+        "imageUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220922115517_Audi_A4_Tango_Red.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Automatic",
+        "releaseYear": 2023,
+        "carRent": 550
+    },
+    {
+        "id": 17,
+        "carName": "Hundai Sonata",
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Hyundai-Sonata/3786/1550818328967/front-left-side-47.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2022,
+        "carRent": 1600
+    },
+    {
+        "id": 18,
+        "carName": "Kia Optima",
+        "imageUrl": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/43461/--front-left-three-quarter--exterior-0.jpeg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2022,
+        "carRent": 700
+    },
+    {
+        "id": 19,
+        "carName": "Subaru Impreza",
+        "imageUrl": "https://www.cnet.com/a/img/resize/ddcbc6ab198792b43796699876fc35a75c911f6a/hub/2010/08/11/703a9dfc-f0fa-11e2-8c7c-d4ae52e62bcc/34145278_SS01.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2018,
+        "carRent": 450
+    },
+    {
+        "id": 20,
+        "carName": "Tesla Model 3",
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-3/5251/1693556345148/front-left-side-47.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2023,
+        "carRent": 1500
+    },
+    {
+        "id": 21,
+        "carName": "Jeep Wrangler",
+        "imageUrl": "https://www.financialexpress.com/wp-content/uploads/2023/04/2024-Jeep-Wrangler-3.jpg?w=1024",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2023,
+        "carRent": 1000
+    },
+    {
+        "id": 22,
+        "carName": "Dodge Charger",
+        "imageUrl": "https://images.hindustantimes.com/auto/img/2022/08/18/600x338/Dodge-Charger_Daytona_SRT_Concept_1660814665000_1660814674113_1660814674113.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2022,
+        "carRent": 1450
+    },
+    {
+        "id": 23,
+        "carName": "Lexus ES",
+        "imageUrl": "https://static.autox.com/uploads/2021/04/2021-Lexus-ES-300h-Facelift.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2019,
+        "carRent": 750
+    },
+    {
+        "id": 24,
+        "carName": "Mazda MX-5 Miata",
+        "imageUrl": "https://media.ed.edmunds-media.com/mazda/mx-5-miata/2022/oem/2022_mazda_mx-5-miata_convertible_club_fq_oem_1_1600.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2023,
+        "carRent": 1200
+    },
+    {
+        "id": 25,
+        "carName": "GMC Sierra",
+        "imageUrl": "https://dealerinspire-image-library-prod.s3.us-east-1.amazonaws.com/images/xat26flCvgFI5WfEcJon6wNiJmJEDCbj2mx0PUIB.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2021,
+        "carRent": 1150
+    },
+    {
+        "id": 26,
+        "carName": "Toyota RAV4",
+        "imageUrl": "https://media.ed.edmunds-media.com/toyota/rav4-hybrid/2022/oem/2022_toyota_rav4-hybrid_4dr-suv_se_fq_oem_1_1280.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2022,
+        "carRent": 1350
+    },
+    {
+        "id": 27,
+        "carName": "Honda CR-V",
+        "imageUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/dtdosuwovnyzbwkozjkb",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2022,
+        "carRent": 850
+    },
+    {
+        "id": 28,
+        "carName": "Ford Explorer",
+        "imageUrl": "https://www.cnet.com/a/img/resize/66bfcd0063aa957ff51f41ee65ad596973e58045/hub/2022/04/18/41ef8b2c-5eaa-4208-abe3-37a492de43c5/ogi1-2022-ford-explorer-timberline-001.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2021,
+        "carRent": 950
+    },
+    {
+        "id": 29,
+        "carName": "Chevrolet Silverado",
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-chevrolet-silverado-1500-high-country-102-642dbddbe725d.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2019,
+        "carRent": 550
+    },
+    {
+        "id": 30,
+        "carName": "BMW X5",
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/X5-2023/10452/1688992642182/front-left-side-47.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2021,
+        "carRent": 1300
+    },
+    {
+        "id": 31,
+        "carName": "Volkswagen Jetta",
+        "imageUrl": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_Jetta_Design_Imagery_Overview-5?Zml0PWNyb3AlMkMxJndpZD04MDAmaGVpPTYwMCZmbXQ9anBlZyZxbHQ9NzkmYmZjPW9mZiYwNDY2",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2020,
+        "carRent": 750
+    },
+    {
+        "id": 32,
+        "carName": "Nissan Rogue",
+        "imageUrl": "https://www.motortrend.com/uploads/2023/02/2023-Nissan-Rogue-Platinum-AWD-17-e1677257988258.jpg?fit=around%7C875:492.1875",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2023,
+        "carRent": 800
+    },
+    {
+        "id": 33,
+        "carName": "Mercedes Benz E Class",
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/E-Class/10855/1690452177573/front-left-side-47.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2023,
+        "carRent": 1700
+    },
+    {
+        "id": 34,
+        "carName": "Audi Q5",
+        "imageUrl": "https://cdni.autocarindia.com/ExtraImages/20221109113556_Audi_Q5_front.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2021,
+        "carRent": 1450
+    },
+    {
+        "id": 35,
+        "carName": "Hyundai Tucson",
+        "imageUrl": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/08/10/ab235b8352a4f43246c556ab6f7f321c166012131990919_original.jpg?impolicy=abp_cdn&imwidth=720",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2023,
+        "carRent": 1550
+    },
+    {
+        "id": 36,
+        "carName": "Kia Sorento",
+        "imageUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20230102054522_Sorento.jpg&w=700&q=90&c=1",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2021,
+        "carRent": 1150
+    },
+    {
+        "id": 37,
+        "carName": "Subaru Outback",
+        "imageUrl": "https://images.carexpert.com.au/resize/3000/-/app/uploads/2023/09/Subaru-Outback-AWD-Sport_HERO-16x9-1.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2021,
+        "carRent": 850
+    },
+    {
+        "id": 38,
+        "carName": "Tesla Model S",
+        "imageUrl": "https://media.autoexpress.co.uk/image/private/s--XfLTTcWt--/v1695379931/evo/2023/09/Tesla%20Model%20S%20Plaid%20evo%2023.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2023,
+        "carRent": 750
+    },
+    {
+        "id": 39,
+        "carName": "Jeep Grand Cherokee",
+        "imageUrl": "https://cdni.autocarindia.com/ExtraImages/20230313015307_Jeep_Grand_Cherokee_front.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2022,
+        "carRent": 800
+    },
+    {
+        "id": 40,
+        "carName": "Dodge Challenger",
+        "imageUrl": "https://media.ed.edmunds-media.com/dodge/challenger/2023/oem/2023_dodge_challenger_coupe_gt_fq_oem_1_1600.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2021,
+        "carRent": 1350
+    },
+    {
+        "id": 41,
+        "carName": "Lexus RX",
+        "imageUrl": "https://www.lexusindia.co.in/content/dam/lexus-v3-blueprint/models/suv/rx/rx-350h/my23/overview/lexus-350h-overview-mgp.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2018,
+        "carRent": 1550
+    },
+    {
+        "id": 42,
+        "carName": "Mazda CX-5",
+        "imageUrl": "https://www.cnet.com/a/img/resize/f36ef4ac6dd718d0969347d46028f7e4a5130e07/hub/2022/04/26/c488cccd-9e66-4beb-968d-e856ed8802d1/ogi-2022-mazda-cx-5-turbo-awd-02.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2022,
+        "carRent": 1200
+    },
+    {
+        "id": 43,
+        "carName": "GMC Acadia",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2020_GMC_Acadia_SLT_%28facelift%29%2C_front_3.7.22.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2018,
+        "carRent": 1100
+    },
+    {
+        "id": 44,
+        "carName": "Toyota Highlander",
+        "imageUrl": "https://dealerinspire-image-library-prod.s3.us-east-1.amazonaws.com/images/SaGFb1Nmtg1igjnncC4w0CK4XxyGwXFRz8mrycQi.jpeg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2019,
+        "carRent": 1600
+    },
+    {
+        "id": 45,
+        "carName": "Honda HR-V",
+        "imageUrl": "https://images.hindustantimes.com/auto/img/2022/03/24/1600x900/Honda_hr-v_1_1648085319886_1648085328189.JPG",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2023,
+        "carRent": 1000
+    },
+    {
+        "id": 46,
+        "carName": "Ford Escape",
+        "imageUrl": "https://media.ed.edmunds-media.com/ford/escape/2023/oem/2023_ford_escape_4dr-suv_plug-in-hybrid_fq_oem_1_1280.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2022,
+        "carRent": 900
+    },
+    {
+        "id": 47,
+        "carName": "Chevrolet Equinox",
+        "imageUrl": "https://www.cnet.com/a/img/resize/7184b8f215b2af308278e6fc26712b55bd544272/hub/2019/04/25/d417947b-fdea-4285-9f3a-87d8fbdfa25a/2019-chevrolet-equinox-ogi.jpg?auto=webp&fit=crop&height=900&width=1200",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2022,
+        "carRent": 950
+    },
+    {
+        "id": 48,
+        "carName": "BMW 7 Series",
+        "imageUrl": "https://motoringworld.in/wp-content/uploads/2021/08/BMW-Individual-7-Series-740Li-M-Sport-Edition.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2021,
+        "carRent": 1000
+    },
+    {
+        "id": 49,
+        "carName": "Volkswagen Passat",
+        "imageUrl": "https://uploads.vw-mms.de/system/production/images/vwn/029/415/images/869424d4159b91be4431c309c1e63f53ea727f0f/DB2019AU00902_web_1600.jpg?1649155074",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2020,
+        "carRent": 700
+    },
+    {
+        "id": 50,
+        "carName": "Nissan Pathfinder",
+        "imageUrl": "https://metronissanredlands.com/wp-content/uploads/2021/02/2022-Nissan-Pathfinder-99.png",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2020,
+        "carRent": 800
+    },
+    {
+        "id": 51,
+        "carName": "Mercedes Benz GLE",
+        "imageUrl": "https://cdni.autocarindia.com/ExtraImages/20200110122626_Mercedes-GLE.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2018,
+        "carRent": 850
+    },
+    {
+        "id": 52,
+        "carName": "Audi A6",
+        "imageUrl": "https://gomechanic.in/blog/wp-content/uploads/2019/10/2019-audi-a6.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2019,
+        "carRent": 750
+    },
+    {
+        "id": 53,
+        "carName": "Hyundai Santa Fe",
+        "imageUrl": "https://media.ed.edmunds-media.com/hyundai/santa-fe-plug-in-hybrid/2022/oem/2022_hyundai_santa-fe-plug-in-hybrid_4dr-suv_limited_fq_oem_1_1600.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2021,
+        "carRent": 1350
+    },
+    {
+        "id": 54,
+        "carName": "Kia Sportage",
+        "imageUrl": "https://imgd.aeplcdn.com/1280x720/cw/ec/35392/Kia-SP-Exterior-131903.jpg?wm=0",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2021,
+        "carRent": 1150
+    },
+    {
+        "id": 55,
+        "carName": "Subaru Forester",
+        "imageUrl": "https://editorial.pxcrush.net/carsales/general/editorial/subaru-forester-update-2-l86r.jpg?width=1024&height=683",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2021,
+        "carRent": 1050
+    },
+    {
+        "id": 56,
+        "carName": "Tesla Model X",
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-X/5253/1611841733029/front-left-side-47.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2023,
+        "carRent": 550
+    },
+    {
+        "id": 57,
+        "carName": "Jeep Cherokee",
+        "imageUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20230313015307_Jeep_Grand_Cherokee_front.jpg&w=700&q=90&c=1",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2023,
+        "carRent": 500
+    },
+    {
+        "id": 58,
+        "carName": "Chevrolet Impala",
+        "imageUrl": "https://www.postcrescent.com/gcdn/-mm-/88d6bdebd6f71dfca70485a5db39455f8dd9d1c8/c=0-184-1800-1199/local/-/media/WIGroup/promo/2014/08/29/1409346932000-0829-2014-Chevrolet-Impala-sedan-.jpg?width=1800&height=1015&fit=crop&format=pjpg&auto=webp",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2023,
+        "carRent": 650
+    },
+    {
+        "id": 59,
+        "carName": "Dodge Viper",
+        "imageUrl": "https://www.carscoops.com/wp-content/uploads/2021/07/Dodge-Viper-ACR-12-1024x683.jpg",
+        "capacity": 4,
+        "fuelType": "Gasoline",
+        "driveMode": "Automatic",
+        "releaseYear": 2021,
+        "carRent": 950
+    },
+    {
+        "id": 60,
+        "carName": "Mitsubishi Eclipse",
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mitsubishi/Mitsubishi-Eclipse-Cross/6572/1551099658605/front-left-side-47.jpg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "driveMode": "Manual",
+        "releaseYear": 2020,
+        "carRent": 1000
+    }
+]
